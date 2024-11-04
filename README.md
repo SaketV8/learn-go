@@ -5,7 +5,7 @@ This is the prewritten content in the markdown file.
 <details close>
 <summary> 0. hello-in-golang </summary>
 
-<h3 align="center"> 0. hello-in-golang </h3>
+<h3 align="center"> ⚡ 0. hello-in-golang </h3>
 
 ```go
 package main
@@ -21,7 +21,7 @@ func main() {
 <details close>
 <summary> 1. variables </summary>
 
-<h3 align="center"> 1. variables </h3>
+<h3 align="center"> ⚡ 1. variables </h3>
 
 ```go
 package main
@@ -123,7 +123,7 @@ func main() {
 <details close>
 <summary> 2. string </summary>
 
-<h3 align="center"> 2. string </h3>
+<h3 align="center"> ⚡ 2. string </h3>
 
 ```go
 package main
@@ -176,7 +176,7 @@ func main() {
 <details close>
 <summary> 3. array </summary>
 
-<h3 align="center"> 3. array </h3>
+<h3 align="center"> ⚡ 3. array </h3>
 
 ```go
 package main
@@ -225,7 +225,7 @@ func main() {
 <details close>
 <summary> 4. slice </summary>
 
-<h3 align="center"> 4. slice </h3>
+<h3 align="center"> ⚡ 4. slice </h3>
 
 ```go
 package main
@@ -264,7 +264,7 @@ func main() {
 <details close>
 <summary> 5. refernce-data-slice-array </summary>
 
-<h3 align="center"> 5. refernce-data-slice-array </h3>
+<h3 align="center"> ⚡ 5. refernce-data-slice-array </h3>
 
 ```go
 package main
@@ -310,7 +310,7 @@ func main() {
 <details close>
 <summary> 6. map </summary>
 
-<h3 align="center"> 6. map </h3>
+<h3 align="center"> ⚡ 6. map </h3>
 
 ```go
 package main
@@ -392,7 +392,7 @@ func main() {
 <details close>
 <summary> 7. control-statement-1 </summary>
 
-<h3 align="center"> 7. control-statement-1 </h3>
+<h3 align="center"> ⚡ 7. control-statement-1 </h3>
 
 ```go
 package main
@@ -510,7 +510,7 @@ func main() {
 <details close>
 <summary> 8. control-statement-2 </summary>
 
-<h3 align="center"> 8. control-statement-2 </h3>
+<h3 align="center"> ⚡ 8. control-statement-2 </h3>
 
 ```go
 package main
@@ -606,7 +606,7 @@ func main() {
 <details close>
 <summary> 9. functions-1 </summary>
 
-<h3 align="center"> 9. functions-1 </h3>
+<h3 align="center"> ⚡ 9. functions-1 </h3>
 
 ```go
 package main
@@ -683,7 +683,7 @@ func square(arg ...int) {
 <details close>
 <summary> 10. functions-2 </summary>
 
-<h3 align="center"> 10. functions-2 </h3>
+<h3 align="center"> ⚡ 10. functions-2 </h3>
 
 ```go
 package main
@@ -744,7 +744,7 @@ func add_by_reference_2(a *int) *int {
 <details close>
 <summary> 11. functions-3 </summary>
 
-<h3 align="center"> 11. functions-3 </h3>
+<h3 align="center"> ⚡ 11. functions-3 </h3>
 
 ```go
 package main
@@ -787,7 +787,7 @@ func func_3() {
 <details close>
 <summary> 12. functions-4 </summary>
 
-<h3 align="center"> 12. functions-4 </h3>
+<h3 align="center"> ⚡ 12. functions-4 </h3>
 
 ```go
 package main
@@ -834,7 +834,7 @@ func filter(mySlice []int, func_pass boolFunc) []int {
 <details close>
 <summary> 13. functions-5 </summary>
 
-<h3 align="center"> 13. functions-5 </h3>
+<h3 align="center"> ⚡ 13. functions-5 </h3>
 
 ```go
 package main
@@ -869,7 +869,7 @@ func safeDivide(a, b int) {
 <details close>
 <summary> 14. main-init-func </summary>
 
-<h3 align="center"> 14. main-init-func </h3>
+<h3 align="center"> ⚡ 14. main-init-func </h3>
 
 ```go
 package main
@@ -899,7 +899,7 @@ func init() {
 <details close>
 <summary> 15. import-in-go </summary>
 
-<h3 align="center"> 15. import-in-go </h3>
+<h3 align="center"> ⚡ 15. import-in-go </h3>
 
 ```go
 package main
@@ -930,7 +930,7 @@ func main() {
 <details close>
 <summary> 16. struct-1 </summary>
 
-<h3 align="center"> 16. struct-1 </h3>
+<h3 align="center"> ⚡ 16. struct-1 </h3>
 
 ```go
 package main
@@ -1004,7 +1004,7 @@ func Older(p1, p2 person) person {
 <details close>
 <summary> 17. struct-2 </summary>
 
-<h3 align="center"> 17. struct-2 </h3>
+<h3 align="center"> ⚡ 17. struct-2 </h3>
 
 ```go
 package main
@@ -1062,7 +1062,7 @@ func main() {
 <details close>
 <summary> 18. struct-3 </summary>
 
-<h3 align="center"> 18. struct-3 </h3>
+<h3 align="center"> ⚡ 18. struct-3 </h3>
 
 ```go
 package main
@@ -1148,7 +1148,7 @@ func main() {
 <details close>
 <summary> 19. object-oriented-1 </summary>
 
-<h3 align="center"> 19. object-oriented-1 </h3>
+<h3 align="center"> ⚡ 19. object-oriented-1 </h3>
 
 ```go
 package main
@@ -1205,7 +1205,7 @@ func (r Rectangle) Area() float64 {
 <details close>
 <summary> 20. object-oriented-2 </summary>
 
-<h3 align="center"> 20. object-oriented-2 </h3>
+<h3 align="center"> ⚡ 20. object-oriented-2 </h3>
 
 ```go
 package main
@@ -1330,7 +1330,7 @@ func main() {
 <details close>
 <summary> 21. object-oriented-3 </summary>
 
-<h3 align="center"> 21. object-oriented-3 </h3>
+<h3 align="center"> ⚡ 21. object-oriented-3 </h3>
 
 ```go
 package main
@@ -1383,7 +1383,7 @@ func (h *Human) sayHi() {
 <details close>
 <summary> 22. object-oriented-4 </summary>
 
-<h3 align="center"> 22. object-oriented-4 </h3>
+<h3 align="center"> ⚡ 22. object-oriented-4 </h3>
 
 ```go
 package main
@@ -1448,7 +1448,7 @@ func (s *Student) sayHi() {
 <details close>
 <summary> 23. interface-1 </summary>
 
-<h3 align="center"> 23. interface-1 </h3>
+<h3 align="center"> ⚡ 23. interface-1 </h3>
 
 ```go
 package main
@@ -1520,7 +1520,7 @@ func main() {
 <details close>
 <summary> 24. interface-2 </summary>
 
-<h3 align="center"> 24. interface-2 </h3>
+<h3 align="center"> ⚡ 24. interface-2 </h3>
 
 ```go
 package main
@@ -1593,7 +1593,7 @@ func main() {
 <details close>
 <summary> 25. interface-3 </summary>
 
-<h3 align="center"> 25. interface-3 </h3>
+<h3 align="center"> ⚡ 25. interface-3 </h3>
 
 ```go
 package main
@@ -1740,7 +1740,7 @@ func EmployeeMethodCall(e ElderlyGent) {
 <details close>
 <summary> 26. interface-4 </summary>
 
-<h3 align="center"> 26. interface-4 </h3>
+<h3 align="center"> ⚡ 26. interface-4 </h3>
 
 ```go
 package main
@@ -1777,7 +1777,7 @@ func main() {
 <details close>
 <summary> __playground </summary>
 
-<h3 align="center"> __playground </h3>
+<h3 align="center"> ⚡ __playground </h3>
 
 ```go
 package main
