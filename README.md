@@ -3,7 +3,7 @@ This is the prewritten content in the markdown file.
 
 # Collected main.go Files Content
 <details close>
-<summary><h3> 0. hello-in-golang </h3></summary>
+<summary>0. hello-in-golang</summary>
 
 ```go
 package main
@@ -17,7 +17,7 @@ func main() {
 ```
 </details>
 <details close>
-<summary><h3> 1. variables </h3></summary>
+<summary>1. variables</summary>
 
 ```go
 package main
@@ -117,7 +117,7 @@ func main() {
 ```
 </details>
 <details close>
-<summary><h3> 2. string </h3></summary>
+<summary> ### 2. string </summary>
 
 ```go
 package main
