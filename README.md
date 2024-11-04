@@ -3,8 +3,8 @@ This is the prewritten content in the markdown file.
 
 # Collected main.go Files Content
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 0. hello-in-golang <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 0. hello-in-golang <br> </h2></summary>
 
 ```go
 package main
@@ -19,8 +19,8 @@ func main() {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 1. variables <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 1. variables <br> </h2></summary>
 
 ```go
 package main
@@ -121,8 +121,8 @@ func main() {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 2. string <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 2. string <br> </h2></summary>
 
 ```go
 package main
@@ -174,8 +174,8 @@ func main() {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 3. array <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 3. array <br> </h2></summary>
 
 ```go
 package main
@@ -223,8 +223,8 @@ func main() {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 4. slice <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 4. slice <br> </h2></summary>
 
 ```go
 package main
@@ -262,8 +262,8 @@ func main() {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 5. refernce-data-slice-array <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 5. refernce-data-slice-array <br> </h2></summary>
 
 ```go
 package main
@@ -308,8 +308,8 @@ func main() {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 6. map <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 6. map <br> </h2></summary>
 
 ```go
 package main
@@ -390,8 +390,8 @@ func main() {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 7. control-statement-1 <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 7. control-statement-1 <br> </h2></summary>
 
 ```go
 package main
@@ -508,8 +508,8 @@ func main() {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 8. control-statement-2 <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 8. control-statement-2 <br> </h2></summary>
 
 ```go
 package main
@@ -604,8 +604,8 @@ func main() {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 9. functions-1 <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 9. functions-1 <br> </h2></summary>
 
 ```go
 package main
@@ -681,8 +681,8 @@ func square(arg ...int) {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 10. functions-2 <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 10. functions-2 <br> </h2></summary>
 
 ```go
 package main
@@ -742,8 +742,8 @@ func add_by_reference_2(a *int) *int {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 11. functions-3 <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 11. functions-3 <br> </h2></summary>
 
 ```go
 package main
@@ -785,8 +785,8 @@ func func_3() {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 12. functions-4 <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 12. functions-4 <br> </h2></summary>
 
 ```go
 package main
@@ -832,8 +832,8 @@ func filter(mySlice []int, func_pass boolFunc) []int {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 13. functions-5 <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 13. functions-5 <br> </h2></summary>
 
 ```go
 package main
@@ -867,8 +867,8 @@ func safeDivide(a, b int) {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 14. main-init-func <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 14. main-init-func <br> </h2></summary>
 
 ```go
 package main
@@ -897,8 +897,8 @@ func init() {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 15. import-in-go <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 15. import-in-go <br> </h2></summary>
 
 ```go
 package main
@@ -928,8 +928,8 @@ func main() {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 16. struct-1 <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 16. struct-1 <br> </h2></summary>
 
 ```go
 package main
@@ -1002,8 +1002,8 @@ func Older(p1, p2 person) person {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 17. struct-2 <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 17. struct-2 <br> </h2></summary>
 
 ```go
 package main
@@ -1060,8 +1060,8 @@ func main() {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 18. struct-3 <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 18. struct-3 <br> </h2></summary>
 
 ```go
 package main
@@ -1146,8 +1146,8 @@ func main() {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 19. object-oriented-1 <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 19. object-oriented-1 <br> </h2></summary>
 
 ```go
 package main
@@ -1203,8 +1203,8 @@ func (r Rectangle) Area() float64 {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 20. object-oriented-2 <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 20. object-oriented-2 <br> </h2></summary>
 
 ```go
 package main
@@ -1328,8 +1328,8 @@ func main() {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 21. object-oriented-3 <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 21. object-oriented-3 <br> </h2></summary>
 
 ```go
 package main
@@ -1381,8 +1381,8 @@ func (h *Human) sayHi() {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 22. object-oriented-4 <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 22. object-oriented-4 <br> </h2></summary>
 
 ```go
 package main
@@ -1446,8 +1446,8 @@ func (s *Student) sayHi() {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 23. interface-1 <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 23. interface-1 <br> </h2></summary>
 
 ```go
 package main
@@ -1518,8 +1518,8 @@ func main() {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 24. interface-2 <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 24. interface-2 <br> </h2></summary>
 
 ```go
 package main
@@ -1591,8 +1591,8 @@ func main() {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 25. interface-3 <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 25. interface-3 <br> </h2></summary>
 
 ```go
 package main
@@ -1738,8 +1738,8 @@ func EmployeeMethodCall(e ElderlyGent) {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> 26. interface-4 <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> 26. interface-4 <br> </h2></summary>
 
 ```go
 package main
@@ -1775,8 +1775,8 @@ func main() {
 </details>
 
 
-<details close style=" width: 100%; margin: 0 auto; padding: 6px 6px; background: #22272e; margin-bottom: 0.5rem; box-shadow: 0 0.1rem 1rem -0.5rem rgba(0, 0, 0, 0.4); border-radius: 5px; display: block; overflow-x: auto; ">
-<summary><h2 style="display: inline; margin: 0.5rem;"> __playground <br> </h2></summary>
+<details close>
+<summary><h2 style="display: inline;"> __playground <br> </h2></summary>
 
 ```go
 package main
