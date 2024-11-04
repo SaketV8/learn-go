@@ -3,7 +3,7 @@ This is the prewritten content in the markdown file.
 
 # Collected main.go Files Content
 <details close>
-<summary><h2 style="display: inline;"> 0. hello-in-golang <br> </h2></summary>
+<summary><h3> 0. hello-in-golang <br> </h3></summary>
 
 ```go
 package main
@@ -17,7 +17,7 @@ func main() {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 1. variables <br> </h2></summary>
+<summary><h3> 1. variables <br> </h3></summary>
 
 ```go
 package main
@@ -117,7 +117,7 @@ func main() {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 2. string <br> </h2></summary>
+<summary><h3> 2. string <br> </h3></summary>
 
 ```go
 package main
@@ -168,7 +168,7 @@ func main() {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 3. array <br> </h2></summary>
+<summary><h3> 3. array <br> </h3></summary>
 
 ```go
 package main
@@ -215,7 +215,7 @@ func main() {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 4. slice <br> </h2></summary>
+<summary><h3> 4. slice <br> </h3></summary>
 
 ```go
 package main
@@ -252,7 +252,7 @@ func main() {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 5. refernce-data-slice-array <br> </h2></summary>
+<summary><h3> 5. refernce-data-slice-array <br> </h3></summary>
 
 ```go
 package main
@@ -296,7 +296,7 @@ func main() {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 6. map <br> </h2></summary>
+<summary><h3> 6. map <br> </h3></summary>
 
 ```go
 package main
@@ -376,7 +376,7 @@ func main() {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 7. control-statement-1 <br> </h2></summary>
+<summary><h3> 7. control-statement-1 <br> </h3></summary>
 
 ```go
 package main
@@ -492,7 +492,7 @@ func main() {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 8. control-statement-2 <br> </h2></summary>
+<summary><h3> 8. control-statement-2 <br> </h3></summary>
 
 ```go
 package main
@@ -586,7 +586,7 @@ func main() {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 9. functions-1 <br> </h2></summary>
+<summary><h3> 9. functions-1 <br> </h3></summary>
 
 ```go
 package main
@@ -661,7 +661,7 @@ func square(arg ...int) {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 10. functions-2 <br> </h2></summary>
+<summary><h3> 10. functions-2 <br> </h3></summary>
 
 ```go
 package main
@@ -720,7 +720,7 @@ func add_by_reference_2(a *int) *int {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 11. functions-3 <br> </h2></summary>
+<summary><h3> 11. functions-3 <br> </h3></summary>
 
 ```go
 package main
@@ -761,7 +761,7 @@ func func_3() {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 12. functions-4 <br> </h2></summary>
+<summary><h3> 12. functions-4 <br> </h3></summary>
 
 ```go
 package main
@@ -806,7 +806,7 @@ func filter(mySlice []int, func_pass boolFunc) []int {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 13. functions-5 <br> </h2></summary>
+<summary><h3> 13. functions-5 <br> </h3></summary>
 
 ```go
 package main
@@ -839,7 +839,7 @@ func safeDivide(a, b int) {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 14. main-init-func <br> </h2></summary>
+<summary><h3> 14. main-init-func <br> </h3></summary>
 
 ```go
 package main
@@ -867,7 +867,7 @@ func init() {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 15. import-in-go <br> </h2></summary>
+<summary><h3> 15. import-in-go <br> </h3></summary>
 
 ```go
 package main
@@ -896,7 +896,7 @@ func main() {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 16. struct-1 <br> </h2></summary>
+<summary><h3> 16. struct-1 <br> </h3></summary>
 
 ```go
 package main
@@ -968,7 +968,7 @@ func Older(p1, p2 person) person {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 17. struct-2 <br> </h2></summary>
+<summary><h3> 17. struct-2 <br> </h3></summary>
 
 ```go
 package main
@@ -1024,7 +1024,7 @@ func main() {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 18. struct-3 <br> </h2></summary>
+<summary><h3> 18. struct-3 <br> </h3></summary>
 
 ```go
 package main
@@ -1108,7 +1108,7 @@ func main() {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 19. object-oriented-1 <br> </h2></summary>
+<summary><h3> 19. object-oriented-1 <br> </h3></summary>
 
 ```go
 package main
@@ -1163,7 +1163,7 @@ func (r Rectangle) Area() float64 {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 20. object-oriented-2 <br> </h2></summary>
+<summary><h3> 20. object-oriented-2 <br> </h3></summary>
 
 ```go
 package main
@@ -1286,7 +1286,7 @@ func main() {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 21. object-oriented-3 <br> </h2></summary>
+<summary><h3> 21. object-oriented-3 <br> </h3></summary>
 
 ```go
 package main
@@ -1337,7 +1337,7 @@ func (h *Human) sayHi() {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 22. object-oriented-4 <br> </h2></summary>
+<summary><h3> 22. object-oriented-4 <br> </h3></summary>
 
 ```go
 package main
@@ -1400,7 +1400,7 @@ func (s *Student) sayHi() {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 23. interface-1 <br> </h2></summary>
+<summary><h3> 23. interface-1 <br> </h3></summary>
 
 ```go
 package main
@@ -1470,7 +1470,7 @@ func main() {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 24. interface-2 <br> </h2></summary>
+<summary><h3> 24. interface-2 <br> </h3></summary>
 
 ```go
 package main
@@ -1541,7 +1541,7 @@ func main() {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 25. interface-3 <br> </h2></summary>
+<summary><h3> 25. interface-3 <br> </h3></summary>
 
 ```go
 package main
@@ -1686,7 +1686,7 @@ func EmployeeMethodCall(e ElderlyGent) {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> 26. interface-4 <br> </h2></summary>
+<summary><h3> 26. interface-4 <br> </h3></summary>
 
 ```go
 package main
@@ -1721,7 +1721,7 @@ func main() {
 ```
 </details>
 <details close>
-<summary><h2 style="display: inline;"> __playground <br> </h2></summary>
+<summary><h3> __playground <br> </h3></summary>
 
 ```go
 package main
